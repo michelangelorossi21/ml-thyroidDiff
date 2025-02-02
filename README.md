@@ -10,15 +10,14 @@ NumPy (for numerical computations)
 Matplotlib (for visualizations)
 
 ## 🚀 How to Run the Project
-1. Clone the repository:
+1. **Clone the repository**:
 ```sh
-   git clone https://github.com/michelagelorossi21/iot-concert-enviroment.git
-   cd IoT-Simulator
+   git clone https://github.com/michelangelorossi21/ml-thyroidDiff.git
+   cd ml-thyroidDiff
 
-2. Run the model:
+2. **Run the model**:
 ```sh
-   git clone https://github.com/michelagelorossi21/iot-concert-enviroment.git
-   cd IoT-Simulator
+   python3 main.py
 
 ## 🔹 Key Features
 - Data preprocessing using pandas for cleaning and preparing the dataset
