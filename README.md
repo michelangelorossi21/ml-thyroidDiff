@@ -1,4 +1,4 @@
-# 📌 Thyroid Cancer Recurrence Prediction (Machine Learning)
+# Thyroid Cancer Recurrence Prediction (Machine Learning)
 ## 📌 Description
 This machine learning project predicts the possible recurrence of thyroid cancer using a dataset of medical records. The model is trained to classify patients based on factors such as age, gender, and various clinical indicators, helping doctors to better anticipate the likelihood of cancer recurrence.
 
@@ -25,6 +25,10 @@ Matplotlib (for visualizations)
 - Model training and evaluation using scikit-learn (Logistic Regression, Decision Tree, K-nearest neighbours, Linear SVC)
 - Cross-validation for improved accuracy of the model
 - Visualizations of results and model performance
+
+## Images
+Here's is code execution with the model comparison and prediction metrics:
+![dataVisualization](https://github.com/michelangelorossi21/ml-thyroidDiff/blob/main/dataVisualization.png)
 
 ## ✉ Contact
 For questions or suggestions, contact me on **[LinkedIn](https://www.linkedin.com/in/michelangelo-rossi-6a2071a6/)**
