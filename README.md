@@ -28,6 +28,7 @@ Matplotlib (for visualizations)
 
 ## Images
 Here's is code execution with the model comparison and prediction metrics:
+
 ![dataVisualization](https://github.com/michelangelorossi21/ml-thyroidDiff/blob/main/dataVisualization.png)
 
 ## ✉ Contact
