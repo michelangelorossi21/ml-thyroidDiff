@@ -11,12 +11,12 @@ Matplotlib (for visualizations)
 
 ## 🚀 How to Run the Project
 1. **Clone the repository**:
-```sh
+\`\`\`sh
    git clone https://github.com/michelangelorossi21/ml-thyroidDiff.git
    cd ml-thyroidDiff
 
 2. **Run the model**:
-```sh
+\`\`\`sh
    python3 main.py
 
 ## 🔹 Key Features
@@ -28,3 +28,4 @@ Matplotlib (for visualizations)
 
 ## ✉ Contact
 For questions or suggestions, contact me on **[LinkedIn](https://www.linkedin.com/in/michelangelo-rossi-6a2071a6/)**
+
